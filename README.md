@@ -1,14 +1,12 @@
 # Overview
 
-## Activity to ensure tools and resources are ready for future software development projects
+- Activity to ensure tools and resources are ready for future software development projects
 
 - The line 'Hello, World' is displayed using the c# programming language
 
 - This is a simple project just to verify that my software development environment is set up correctly
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/QgYUNRvD_-I)
 
 # Development Environment
 
@@ -18,5 +16,5 @@
 
 # Useful Websites
 
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [GitHub Workshop Video](https://video.byui.edu/media/t/1_zyyx43ke)
+* [Markdown Language Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
